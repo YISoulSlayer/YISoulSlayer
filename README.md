@@ -1,7 +1,7 @@
 <div align="center">
 
 # YI
-![b921ec9a9ccbafc5913c2e38ddff2b69](https://github.com/user-attachments/assets/2bf5299f-7f50-4d8e-bd20-2fa8605b82a5)
+![2fdff8306b46fb4affc47e82764e9aea](https://i.pinimg.com/originals/2f/df/f8/2fdff8306b46fb4affc47e82764e9aea.gif)
 
 
 
