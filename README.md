@@ -1,9 +1,8 @@
 <div align="center">
 
-# YI
-![2fdff8306b46fb4affc47e82764e9aea](https://i.pinimg.com/originals/2f/df/f8/2fdff8306b46fb4affc47e82764e9aea.gif)
+# Snufkin
 
-
+![snufkin-header](https://i.pinimg.com/originals/9d/6f/8f/9d6f8f0f921d2d100121ad8f8d0dd52b.jpg)
 
 I work on multiple projects at once.
 
@@ -11,30 +10,57 @@ I work on multiple projects at once.
 
 ### 🛠️ Tech Stack
 
-![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white&style=flat)
-
-
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <b>Languages</b><br/><br/>
+      <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"/><br/>
+      <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white&style=for-the-badge"/><br/>
+      <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge"/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/><br/>
+      <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge"/><br/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge"/><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/><br/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>Frameworks & Libraries</b><br/><br/>
+      <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white&style=for-the-badge"/><br/>
+      <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white&style=for-the-badge"/><br/>
+      <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge"/><br/>
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge"/><br/>
+      <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge"/><br/>
+      <img src="https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=white&style=for-the-badge"/><br/>
+      <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>Tools & Runtimes</b><br/><br/>
+      <img src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white&style=for-the-badge"/><br/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge"/><br/>
+      <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white&style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
 
 ---
 ```
-"በዚህ ዓለም ውስጥ በጣም ጠንካራ ኃይሎች - አይታዩም ... ግን ይሰማሉ። ነፋሱ ፊት አይተውም ፣ ግን ተራሮችን ወደ አቧራ ይቆርጣል።
-
-ሥሩ ምስጋና አይፈልግም ፣ ግን ሰማዩ እንዳይወድቅ ይከለክላል። እና ቺ? በእኔ ውስጥ ይፈስሳል ፣ ዝም ፣ የማይታይ… ግን ስነሳ መንግሥቱ አይቃጠልም…"
+"You can't ever be really free if you admire somebody too much, I know."
+— Snufkin
 ```
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wl2m3aqxcky555yhqi7epzau7u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ff0000)](https://github.com/kittinan/spotify-github-profile) ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=YISoulSlayer&header_style=normal_stats&footer_style=wave&maxage=60&loved=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wl2m3aqxcky555yhqi7epzau7u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=3d8b37)](https://github.com/kittinan/spotify-github-profile) ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Snufxander&header_style=normal_stats&footer_style=wave&maxage=60&loved=true)
 
 ---
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YISoulSlayer&bg_color=000000&color=FF0000&line=0000FF&point=FFFF00&area=true&hide_border=true&area_color=FF0000)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Snufxander&bg_color=1a2a1a&color=8fbf8f&line=3d8b37&point=c8a951&area=true&hide_border=true&area_color=3d8b37)
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YISoulSlayer/YISoulSlayer/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YISoulSlayer/YISoulSlayer/refs/heads/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YISoulSlayer/YISoulSlayer/refs/heads/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Snufxander/Snufxander/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Snufxander/Snufxander/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Snufxander/Snufxander/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
