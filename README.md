@@ -6,6 +6,8 @@
 
 I work on multiple projects at once.
 
+I don't do toxic.
+
 ---
 
 ### 🛠️ Tech Stack
