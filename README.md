@@ -2,7 +2,7 @@
 
 # Tails4Ever
 
-![snufkin-header](https://media1.tenor.com/m/XidRQqkBcCMAAAAd/tails-nine-tails-nine-sonic-prime.gif)
+![nine-header](https://c.tenor.com/XidRQqkBcCMAAAAd/tenor.gif)
 
 I work on multiple projects at once.
 
