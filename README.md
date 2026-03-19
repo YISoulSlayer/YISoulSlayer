@@ -2,7 +2,8 @@
 
 # Tails4Ever
 
-![nine-header](https://c.tenor.com/XidRQqkBcCMAAAAd/tenor.gif)
+![tenor](https://github.com/user-attachments/assets/7f73ae7e-f638-4474-822a-86d09232ce1a)
+
 
 I work on multiple projects at once.
 
