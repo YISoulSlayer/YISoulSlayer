@@ -1,6 +1,6 @@
 <div align="center">
 
-# ShadowNine
+# 𖤐 ShadowNine 𖤐
 
 ![tenor](https://github.com/user-attachments/assets/7f73ae7e-f638-4474-822a-86d09232ce1a)
 
